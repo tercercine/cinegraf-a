@@ -1,0 +1,7 @@
+field,display_name,btn,hidden,sort_name
+pelicula,Película,
+date,Año de estreno,,,Date
+creator,Dirección,,,
+subject,,true
+source,,true
+

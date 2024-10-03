@@ -1,0 +1,5 @@
+field,display_name,search
+date,fecha de estreno,true
+creator,director,true
+subject,zona,true
+location,ciudad,true

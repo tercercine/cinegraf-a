@@ -1,0 +1,21 @@
+field,display_name,browse_link,external_link
+title,Título,
+pelicula,Película,
+creator,Dirección,
+date,Fecha de estreno,
+description,Descripción,
+subject,Zonas y localidades,true
+location,Ciudad,
+latitude,Latitude
+longitude,Longitude
+identifier,Dirección de lugar,,
+source,Género,
+pelicula,Película,
+produccion,Producción,
+foto,Dirección de fotografía,
+arte,Dirección de Arte,
+sonido, Encargado de Sonido,
+color, Color,
+Duracion, Duración en minutos,
+type,Tipo de archivo,
+format,Formato,
